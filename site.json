@@ -1,0 +1,65 @@
+{
+  "name": "24 Hats Leadership Blog",
+  "brand": "24 Hats Leadership",
+  "base": "https://blog.24hatsleadership.com",
+  "theme_color": "#222222",
+  "desc": "Weekly writing on people focused leadership, healthy teams, and stronger relationships, drawn from the 24 Hats Leadership Podcast.",
+  "font_url": "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&display=swap",
+  "logo": "/assets/logo-white.png",
+  "nav": [
+    [
+      "Home",
+      "index.html"
+    ],
+    [
+      "Posts",
+      "posts/"
+    ],
+    [
+      "Podcast",
+      "https://podcast.24hatsleadership.com"
+    ],
+    [
+      "About",
+      "about/"
+    ]
+  ],
+  "cta_label": "Schedule a Call",
+  "cta_url": "https://24hats.hbportal.co/schedule/6a0f494d615cc6fc9083c3ab",
+  "main_url": "https://www.24hatsleadership.com",
+  "section": "posts",
+  "section_title": "All posts",
+  "read_label": "Read the post",
+  "back_label": "Back to all posts",
+  "all_label": "View all posts",
+  "hero_eyebrow": "The 24 Hats Leadership Blog",
+  "hero_title": "People focused leadership, one post a week.",
+  "hero_lede": "Each week we take an idea from the 24 Hats Leadership Podcast and turn it into something you can try with your team on Monday.",
+  "hero_btn1": "Read the latest",
+  "hero_btn2": "Listen to the podcast",
+  "hero_btn2_url": "https://podcast.24hatsleadership.com",
+  "latest_eyebrow": "Fresh this week",
+  "latest_title": "Latest posts",
+  "cta_title": "Take it into your team",
+  "cta_text": "Ready to unlock your team's full potential? Let's start the conversation about what your people need.",
+  "about": [
+    "The 24 Hats Leadership Blog is the written companion to the 24 Hats Leadership Podcast. Every week we pick one idea from the show and work it out in plain language.",
+    "24 Hats Leadership exists to unlock leaders' potential and fight for their highest good by guiding them toward healthy, present, and productive leadership."
+  ],
+  "footer_blurb": "Unlocking leaders' potential and fighting for their highest good by guiding them towards healthy, present, and productive leadership.",
+  "social": [
+    [
+      "LinkedIn",
+      "https://www.linkedin.com/in/jason-kempf/"
+    ],
+    [
+      "YouTube",
+      "https://www.youtube.com/channel/UCubDs-imFumHR6-VOzHVJjw"
+    ],
+    [
+      "Podcast",
+      "https://podcast.24hatsleadership.com"
+    ]
+  ],
+  "copyright": "\u00a9 2026 24 Hats Leadership, LLC. Site created by 6 String Creative."
+}
